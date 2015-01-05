@@ -115,8 +115,10 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000841_0000_0FABA3294F8D2F98" rendition="simple:additions"/>
-            <pb facs="tcp:000841_0001_0FABA32A5F302568" rendition="simple:additions"/>
+            <pb facs="unknown:000841_0000_0FABA3294F8D2F98"
+                rendition="simple:additions"/>
+            <pb facs="unknown:000841_0001_0FABA32A5F302568"
+                rendition="simple:additions"/>
             <head>By His Excellency <hi>Richard Earl of Bellomont,</hi> Captain General and Governour in Chief of His Majeſties Province of <hi>New-York,</hi> and Territories depending thereon in <hi>America,</hi> and Vice Admiral of the ſame, <hi>&amp;c.</hi> A PROCLAMATION</head>
             <p>WHereas the Proprietors of <hi>Eaſt-New-Jarſey</hi> have been very preſſing with the Right Honourable, the Lords Com<g ref="char:EOLhyphen"/>miſſioners for Trade and Plantations, to have the Priviledge of a Port at <hi>Perth-Amboy</hi> within the ſaid Collony of <hi>New-Jarſey,</hi> aſſertaining that they have a Right thereunto by virtue of a Grant they obtained from the late King <hi>James,</hi> dated the 14th of <hi>March,</hi> 1682. though in reality he was then only <hi>Duke of York,</hi> and derived his Title thereunto from a preceeding Grant from his Royal Brother King <hi>Charles</hi> the ſecond; and have thereupon complained, that their Rights and Properties have been invaded by the Government of <hi>New-York,</hi> in compelling their Ships to go up to <hi>New-York,</hi> and d<gap reason="illegible: indecipherable" extent="3 letters">
                   <desc>•••</desc>
